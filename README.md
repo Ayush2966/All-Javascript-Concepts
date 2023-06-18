@@ -1,3 +1,2 @@
 # All JS Concepts
-JavaScript is Everywhere. Millions of web pages are built on JavaScript and it’s not going anywhere at least for now. On one side HTML and CSS give styling to the web pages but on the other side, it’s the magic of JavaScript that makes your web page alive. Today this language is not just limited to your web browser. You can also use it for server-side applications. Isn’t it cool to use a single language for both client-side and server-side applications? A single language fulfills both of the purposes and this is the main reason TON of job posting is there for javascript developers in the tech industry. <br>
 
