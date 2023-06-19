@@ -14,6 +14,6 @@
 | ForIn - ForOf | <a href="forIn-forOf.js">See here</a>|
 | For Loop | <a href="forLoop.js">See here</a>|
 | Function | <a href="function.js">See here</a>|
-| Arrow Function | <a href="arrowFunction.js">See here</a>|
-| Arrow Function | <a href="arrowFunction.js">See here</a>|
-| Arrow Function | <a href="arrowFunction.js">See here</a>|
+| High Order Function | <a href="higherOrderFunction.js">See here</a>|
+| Iterator | <a href="iterator.js">See here</a>|
+| Json | <a href="json.js">See here</a>|
