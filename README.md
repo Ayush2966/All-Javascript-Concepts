@@ -3,4 +3,4 @@
 ## List
 | Concept | Directory |
 |----|------|
-| Arrow Function | <a fref="arrowFunction.js">See here</a>
+| Arrow Function | <a href="arrowFunction.js">See here</a>
