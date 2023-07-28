@@ -17,3 +17,5 @@
 | High Order Function | <a href="higherOrderFunction.js">See here</a>|
 | Iterator | <a href="iterator.js">See here</a>|
 | Json | <a href="json.js">See here</a>|
+| Maps | <a href="maps.js">See here</a> |
+| Maths | <a href="mathss.js">See here</a> |
